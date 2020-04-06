@@ -1,0 +1,4 @@
+RangeRatingsPart3,1,231,4.0
+RangeRatingsPart3,1,466,4.0
+RoundRobinRatingsPart2,1,231,4.0
+RoundRobinRatingsPart3,1,466,4.0
